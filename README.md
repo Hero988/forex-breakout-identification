@@ -17,7 +17,3 @@ The losses incurred when the model made incorrect predictions were much greater 
 ## Conclusion
 
 This project highlights the importance of not only achieving high accuracy in predictive models but also understanding the risk-reward dynamics of trading systems. Future work could involve optimizing the model for risk management or exploring alternative strategies for breakout identification.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
